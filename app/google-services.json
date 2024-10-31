@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52678042827",
+    "project_id": "loginfirebase-5d36d",
+    "storage_bucket": "loginfirebase-5d36d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52678042827:android:6020866ed7fbf83d34a74e",
+        "android_client_info": {
+          "package_name": "com.syntaxsurgeons.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwal9vxlaA5U4HBpSX05ww-IdKGfjsdKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

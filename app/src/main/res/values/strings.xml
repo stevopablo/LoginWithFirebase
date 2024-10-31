@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="singIn">Entrar</string>
+    <string name="createAccount">Não tem conta? Criar conta</string>
+</resources>
